@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1093137555616",
+    "project_id": "internetcafe-61940",
+    "storage_bucket": "internetcafe-61940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093137555616:android:bb05b39569b835c236e9c5",
+        "android_client_info": {
+          "package_name": "com.example.internet_cafes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093137555616-j152a4spg8988ojed0c21tf95udtomnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_M_B8TqMc4lDhv261_iJJBziXut3taa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093137555616-j152a4spg8988ojed0c21tf95udtomnl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093137555616-nuaujd1pefkdfgs0k6vjkeorhs0m1cdi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
